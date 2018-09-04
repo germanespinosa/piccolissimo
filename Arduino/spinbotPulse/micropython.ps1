@@ -1,0 +1,1 @@
+esptool --port COM6 write_flash 0x00000 micropython.bin

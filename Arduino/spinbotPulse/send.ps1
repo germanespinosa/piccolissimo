@@ -1,0 +1,1 @@
+avrdude -p m328p -c usbtiny -P usb -b 1000000 -u -U flash:w:spinbotPulse.ino.standard.hex -F

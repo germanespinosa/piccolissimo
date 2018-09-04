@@ -1,0 +1,1 @@
+avrdude -c usbtiny -p m328p -B5 -U lfuse:w:0xe2:m -U hfuse:w:0xd9:m -U efuse:w:0xff:m -F
