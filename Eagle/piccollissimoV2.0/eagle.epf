@@ -1,0 +1,24 @@
+[Eagle]
+Version="09 00 01"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:325"
+UsedLibraryUrn="urn:adsk.eagle:library:105"
+UsedLibraryUrn="urn:adsk.eagle:library:420"
+UsedLibraryUrn="urn:adsk.eagle:library:3783312"
+UsedLibrary="C:/Users/germa/Documents/eagle/Board/433.lbr"
+UsedLibrary="C:/Users/germa/Documents/eagle/Vive/vive.lbr"
+UsedLibrary="C:/Users/germa/Documents/eagle/Spinbot/esp8266modules.lbr"
+UsedLibrary="Base.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="3840 1080"
+Window="Win_1"
